@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Champagne Travel Cider Budget]]></title>
+        <description><![CDATA[Champagne Travel Cider Budget]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Mar 2016 08:58:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2221993f-c3fa-4ffe-81a0-263443608a15.jpg">]]></description>
+            <link>undefined401e2b79-e772-466a-99a2-a2fd3be9339c/index.html</link>
+            <guid isPermaLink="false">401e2b79-e772-466a-99a2-a2fd3be9339c</guid>
+            <pubDate>Wed, 02 Mar 2016 08:58:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
