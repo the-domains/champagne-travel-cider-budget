@@ -1,0 +1,28 @@
+name: Champagne Travel Cider Budget
+favicon: null
+layout_spectrum: 0.7255900334566832
+typography_spectrum: 0.7615173885133117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18549292208626866
+  lightness: 0.5950822934973985
+  saturation: 0.9031442096456885
+  rhythmicContrast: 0.19209462916478515
+purpose: []
